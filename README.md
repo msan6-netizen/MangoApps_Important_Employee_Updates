@@ -2,7 +2,7 @@
 
 **What this is:** one workflow, end to end. A manager posts an update, each employee sees only what applies to them, and critical updates get a one-tap confirmation the manager can track. AI features are next steps, not part of V1. Built for Summit Retail Group (5 Seattle-area stores, 200 floor staff) in about 3 hours with Claude Code.
 
-**Live demo:** https://mangoappsimportantemployeeupdatesv1-git-cl-14d723-skin-score-ai.vercel.app/ · **Video:** _<add link>_
+**Live demo:** https://mangoappsimportantemployeeupdatesv1-git-cl-14d723-skin-score-ai.vercel.app/ · **Video:** https://youtu.be/-ZJt0eKZ6qc
 
 ## Run it
 Requires Node 18+.
